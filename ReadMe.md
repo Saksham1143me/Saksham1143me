@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 👋 Hi, I'm Saksham Goyal<br><br>🚀 Passionate Full-Stack Developer | 🤖 AI/ML Enthusiast  <br>🎓 Engineering Student at **NIT Kurukshetra**<br><br>- 🔭 Building real-world projects with **React**, **Node.js**, **MongoDB**, and **Python**  <br>- 🧠 Exploring **Machine Learning**, **Face Recognition**, and **AI applications**  <br>- 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/saksham-goyal/)<br><br>---<br><br>📊 I love building meaningful tech. Scroll down to see what I’ve been working on!<br>
+### 👋 Hi, I'm Saksham Goyal<br><br>🚀 Passionate Full-Stack Developer | 🤖 AI/ML Enthusiast  <br>🎓 Engineering Student at **NIT Kurukshetra**<br><br>- 🔭 Building real-world projects with **React**, **Node.js**, **MongoDB**, and **Python**  <br>- 🧠 Exploring **Machine Learning**, **Face Recognition**, and **AI applications**  <br>- 📫 Let's connect: [LinkedIn](https://linkedin.com/in/saksham-g-0b644a2a9)<br><br>---<br><br>📊 I love building meaningful tech. Scroll down to see what I’ve been working on!<br>
 
 
 # 💻 Tech Stack:
